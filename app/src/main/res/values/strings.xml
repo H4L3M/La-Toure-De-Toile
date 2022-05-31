@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">La Toure de Toile</string>
+
+    <array name="titles">
+<!--        <item>Overview</item>-->
+<!--        <item>Prices</item>-->
+        <item>Photos</item>
+        <item>Reviews</item>
+        <item>Location</item>
+        <item>About</item>
+    </array>
+
+    <string name="duty_times">Duty Times</string>
+    <string-array name="duty_times">
+        <item>MON\t:\t Open 24h/24</item>
+        <item>TUE\t:\t Open 24h/24</item>
+        <item>WED\t:\t Open 24h/24</item>
+        <item>THU\t:\t Open 24h/24</item>
+        <item>FRI\t:\t Open 24h/24</item>
+        <item>SAT\t:\t Open 24h/24</item>
+        <item>SUN\t:\t Open 24h/24</item>
+    </string-array>
+    <string name="address">Address\t:\t P1708 Oulad Brahim Taroudant Sous Massa, Morocco</string>
+</resources>
